@@ -20,7 +20,7 @@
 0.0.0.0 adx-tk.mtgglobals.com
 0.0.0.0 analytics-tcp.mtgglobals.com
 
-0.0.0.0 app.adjust.com
+0.0.0.0 game-archero-v1.archerosve.com
 0.0.0.0 r2---sn-4g5ednde.c.2mdn.net
 0.0.0.0 kayzencdn.akamaized.net
 0.0.0.0 fpt.dfp.microsoft.com
