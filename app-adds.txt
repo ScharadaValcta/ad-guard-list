@@ -1,3 +1,6 @@
+!
+! Title: Hosts contributed by Scharada
+
 #=====================================
 # Title: Hosts contributed by Scharada
 
@@ -18,7 +21,7 @@
 0.0.0.0 play.mtgglobals.com
 0.0.0.0 de01.mtgglobals.com
 0.0.0.0 adx-tk.mtgglobals.com
-0.0.0.0 analytics-tcp.mtgglobals.com
+0.0.0.0 analytics-tcp.mtgglobals.com 
 
 0.0.0.0 game-archero-v1.archerosve.com
 0.0.0.0 archero-guild.habby.com
